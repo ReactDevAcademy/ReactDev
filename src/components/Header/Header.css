@@ -1,0 +1,71 @@
+.header1 {
+    height: 40px;
+    background: #161616;
+    width: auto;
+}
+
+.mobileNum {
+    color: #FFFFFF;
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: 400;
+    display: inline-block;
+    margin-left: 6px;
+
+}
+
+.email {
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: 400;
+    display: inline-block;
+    margin-left: 6px;
+    color: #FFFFFF;
+
+}
+
+.socialmediaIcon {
+    padding-left: 15px;
+    cursor: pointer;
+}
+.header2{
+    width: auto;
+height: 70px;
+top: 40px;
+/* gap: 0px; */
+opacity: 0px;
+background: linear-gradient(180deg, rgba(41, 41, 41, 0.91) 0%, rgba(0, 4, 7, 0.91) 108.13%);
+backdrop-filter: blur(64px)
+
+}
+.logo1{
+    position: absolute;
+    width: 180px;
+    height: 47px;
+    top: 11px;
+    left: 100px;
+}
+.pagelink{
+    font-family: Poppins;
+font-size: 13px;
+font-weight: 500;
+line-height: 24px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color: #FFFFFF;
+}
+.contactbtn{
+    width: 143px;
+height: 41px;
+opacity: 0px;
+
+}
+.pagelist{
+    position: relative;
+    top: 25%;
+    display: flex;
+    list-style: none;
+    justify-content: space-around;
+    align-items: center;
+}

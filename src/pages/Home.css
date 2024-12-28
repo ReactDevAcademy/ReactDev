@@ -1,0 +1,172 @@
+.sliderimg{
+    height: 450px;
+}
+.carousel-indicators{
+    display: none !important;
+}
+.GetInTouch{
+    background: url('../assets/Images/Rectangle7.png');
+    width: 134px;
+    height: 25px;
+    position: absolute;
+    left: 0px;
+    bottom: 14px;
+}
+.leftrightbtn{
+    position: absolute;
+    right: 1px;
+    bottom: 20px;
+    cursor: pointer;
+}
+.carousel-control-prev{
+    display: none !important;
+}
+.carousel-control-next{
+    display: none !important;
+}
+.whatsappIcon{
+    position: fixed;
+    right: 0;
+    top: 50%;
+    z-index: 4;
+    cursor: pointer;
+}
+.Homecontainer2{
+    background: linear-gradient(180deg, #000001 41.95%, rgba(217, 217, 217, 0) 97.49%);
+    height: 1000px;
+    width: 100%;
+    position: absolute;
+}
+.hrline{
+    color: white;
+    position: relative;
+    left: 11%;
+    width: 80vw;
+}
+.whychoose{
+font-family: Poppins;
+font-size: 18px;
+font-weight: 500;
+line-height: 28.5px;
+display: inline-block;
+color: #FFFFFF;
+}
+.bottmicon{
+    float: right;
+}
+.InfoBox{
+    width: 250px;
+    height: 259px;
+}
+.title{
+    font-family: Poppins;
+font-size: 15px;
+display: inline;
+padding: 4px;
+}
+.pbox{
+    display: flex;
+    justify-content: center;
+    height: 40%;
+    align-items: center;
+}
+.content{
+    font-size: 12px;
+    padding: 15px;
+
+    display: inline-block;
+}
+.infoprofile{
+    height: 70px;
+    width: 70px;
+}
+.whychoose2{
+ font-family: Poppins;
+font-size: 25px;
+font-weight: 500;
+line-height: 37.5px;
+color: #282828;
+
+}
+.chooseInfo{
+    font-family: Poppins;
+font-size: 18px;
+font-weight: 400;
+line-height: 27px;
+color: #454545;
+}
+.favicon1{
+    height: 170px;
+    width: 170px;
+    position: absolute;
+    left: 25%;
+    bottom: 6%;
+    opacity: 75%;
+}
+.bigcontent{
+    font-family: Poppins;
+font-size: 12px;
+font-weight: 400;
+line-height: 25.5px;
+
+}
+.Homecontainer3{
+    position: relative;
+    top: 1000px;
+}
+.Homecontainer4{
+    position: relative;
+    top: 1020px;
+}
+.GetinTouch{
+ width: 161px;
+height: 59px;
+
+}
+.infinityimg{
+    width: 500px;
+    height: 285px;
+}
+.laptopgirl{
+    position: absolute;
+    width: 340px;
+    height: 300px;
+    bottom: 24px;
+}
+.vectorline{
+    position: absolute;
+    width: 315px;
+    left: 28%;
+    top: 34%;
+}
+.sendUsMsg{
+    font-family: Poppins;
+font-size: 18px;
+font-weight: 500;
+line-height: 27px;
+color: #000000;
+}
+.sendmsgicon{
+    width: 20px;
+    height: 20px;
+    margin-top: 6px;
+    margin-left: 5px;
+}
+.inputfield{
+    border: none;
+}
+.submitbtn{
+    width: 451px;
+    text-align: end;
+    background: linear-gradient(90.83deg, #8B12BF 13.38%, #59098E 90.78%);
+    color: #ffffff;
+}
+.submitbtn> span:hover{
+    color: #000000 !important;
+}
+.submitbtn:hover{
+    color: white;
+}
+.rightarrow{
+    float: left;
+}
